@@ -12,7 +12,7 @@ Now let's help the cameras to recognize them. To do this, we will train a five-c
   
 Photos with low resolution, 70x70 pixels, with the wrong aspect ratio.
   
-### Этапы работы над проектом
+### Stages of work on the project
   
 1. Download and upload the dataset.
 2. Draw one batch of uploaded data.
