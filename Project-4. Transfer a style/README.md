@@ -77,6 +77,10 @@ $ arbitrary_image_stylization_train \
 
 ![](Inference/stylizated.png)  
 
+И вот что со мной сделал роботизированный велосепедист:  
+
+![](Inference/robot.jpg)  
+
 
 
 
