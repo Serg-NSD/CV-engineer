@@ -18,4 +18,6 @@
 <li>обучение нейросети и получение стилизованных изображений;</li>
 <li>создание приложения для `android's` и получение стилизованных изображений на смартфоне.</li>
 </ul>
-Данный проект основан на этом [репозитории ](https://github.com/magenta/magenta/tree/main) `magenta`.
+
+Данный проект основан на этом [репозитории](https://github.com/magenta/magenta/tree/main) `magenta`.
+Вывод сохраняемых ![](Training/logout.png)
