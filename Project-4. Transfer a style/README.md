@@ -9,7 +9,7 @@
 [Установка magenta](./README.md#Установка)<br>
 [Обучение](./README.md#Обучение)<br>
 [Стилизация](./README.md#Стилизация)<br>
-[Inference](./README.md#Inference)<br>
+[Работа в studio-android](./README.md#Studio-Android)<br>
 [Mobile Application](./README.md#Mobile-Application)
 
 ## Введение  
@@ -81,7 +81,7 @@ $ arbitrary_image_stylization_train \
 
 ![](Inference/robot.jpg)  
 
-<p float="center">
+<div align="center">
   
   ![](Inference/serg_stylized_robot_0.jpg)   
   
@@ -94,8 +94,11 @@ $ arbitrary_image_stylization_train \
   ![](Inference/serg_stylized_robot_4.jpg)   
 
   ![](Inference/serg_stylized_robot_5.jpg)   
-</p>
+</div>
 
+:arrow_up: [Содержание](./README.md#Содержание)  
 
+## Studio-Android
+Studio-Android одинаково нормально установилась и в Windows и в UBUNTU. Но тоже не без фокусов ─ пока разобрал один маленький пункт, а именно: как в студии сделать `app`-файл ─ прошло больше недели. Тем не менее, файл создан и лежит он [здесь](https://drive.google.com/file/d/1j6jNQeSPbFHu24K5T7GxeGGPk5teir7M/view?usp=sharing).
 
 
