@@ -1,7 +1,7 @@
 <div align="center">
   
 # Проект-4: перенос стиля на мобильном устройстве
-<img src="https://souz-market.ru/wp-content/uploads/6/4/b/64b61984b74427962adec58b1cfbdc5c.jpeg" height="480" />
+<img src="https://souz-market.ru/wp-content/uploads/6/4/b/64b61984b74427962adec58b1cfbdc5c.jpeg" height="480" /> 
 </div>  
   
 ## Содержание
