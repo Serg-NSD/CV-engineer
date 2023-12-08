@@ -56,6 +56,8 @@
 
 ## Стилизация
 Получить стилизованное изображение оказалось просто ─ достаточно было выполнить в терминале эту команду:  
+
+```python
 logdir=/path/to/logdir  
 $ arbitrary_image_stylization_train \  
       --batch_size=8 \  
@@ -69,7 +71,7 @@ $ arbitrary_image_stylization_train \
       --augment_style_images=False \  
       --center_crop=True \  
       --logtostderr  
-
+```
 
 
 
