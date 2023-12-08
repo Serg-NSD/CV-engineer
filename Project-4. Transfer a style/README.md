@@ -42,7 +42,7 @@
 
 Запустив обучение согласно [команде](https://github.com/magenta/magenta/tree/main/magenta/models/arbitrary_image_stylization#training-a-model) я получил следующие результаты:  
 
-![](Training/result_training.png
+![](Training/result_training.png)
 
 
 
