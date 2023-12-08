@@ -7,7 +7,7 @@
 ## Содержание
 [Введение](./README.md#Introduction)<br> 
 [Установка magenta](./README.md#Установка magenta)<br>
-[Magenta Installation](./README.md#Magenta-Installation)<br>
+[Обучение](./README.md#Обучение)<br>
 [Model Training](./README.md#Model-Training)<br>
 [Inference](./README.md#Inference)<br>
 [Mobile Application](./README.md#Mobile-Application)
@@ -23,4 +23,6 @@
 Затем необходимо создать `apk`-приложение для мобильных девайсов и продемонстрировать его работу.
 
 ## Установка magenta
-Множественные попытки установить `magenta` на Windows ни к чему не привели. Пришлось устанавливать UBUNTU, затем ─ CONDA. Нужна была среда с очень старыми версиями. Конда помогла в этом. Запустив установку согласно [описания](https://github.com/magenta/magenta/tree/main) `magent`-у поставить не удалось (завершилось ошибкой), но удалось получить среду `magenta` в конде. С помощью `conda-navigator` доустановил необходимые модули, и `magenta` наконец-то установилась.
+Множественные попытки установить `magenta` на Windows ни к чему не привели. Пришлось устанавливать UBUNTU, затем ─ CONDA. Нужна была среда с очень старыми версиями. Конда помогла в этом. Запустив установку согласно [описания](https://github.com/magenta/magenta/tree/main), `magent`-у поставить не удалось (завершилось ошибкой), но удалось получить среду `magenta` в конде. С помощью `conda-navigator` доустановил необходимые модули, и `magenta` наконец-то установилась.  
+
+## Обучение  
