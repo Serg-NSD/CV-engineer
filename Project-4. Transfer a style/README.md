@@ -44,6 +44,7 @@
 
 ![](Training/result_training.png)  
 
+![](Training/logout.png)
 
 
 
