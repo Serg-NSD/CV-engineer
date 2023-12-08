@@ -77,11 +77,14 @@ $ arbitrary_image_stylization_train \
 
 ![](Inference/stylizated.png)  
 
-И вот что со мной сделал роботизированный велосепедист:  
+И вот что со мной сделал роботизированный велосипедист:  
 
 ![](Inference/robot.jpg)  
 
-
+<p float="center">
+  <img src="Inference/robot.jbg" />
+  <img src="inference/robot.jpg /> 
+</p>
 
 
 
