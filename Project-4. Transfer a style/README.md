@@ -73,6 +73,10 @@ $ arbitrary_image_stylization_train \
       --logtostderr  
 ```
 
+После чего в выходной папке с изображениями появились стилизованные картинки:  
+
+![](Inference/stylizated.png)  
+
 
 
 
