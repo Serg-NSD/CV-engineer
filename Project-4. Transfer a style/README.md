@@ -82,15 +82,19 @@ $ arbitrary_image_stylization_train \
 ![](Inference/robot.jpg)  
 
 <p float="center">
-  <img src="Inference/robot.jbg" />
-  <img src="inference/robot.jpg /> 
+  
+  ![](Inference/serg_stylized_robot_0.jpg)   
+  
+  ![](Inference/serg_stylized_robot_1.jpg)   
+  
+  ![](Inference/serg_stylized_robot_2.jpg)   
+
+  ![](Inference/serg_stylized_robot_3.jpg)   
+
+  ![](Inference/serg_stylized_robot_4.jpg)   
+
+  ![](Inference/serg_stylized_robot_5.jpg)   
 </p>
-
-
-
-
-
-
 
 
 
