@@ -8,7 +8,7 @@
 [Введение](./README.md#Введение)<br> 
 [Установка magenta](./README.md#Установка)<br>
 [Обучение](./README.md#Обучение)<br>
-[Model Training](./README.md#Model-Training)<br>
+[Стилизация](./README.md#Стилизация)<br>
 [Inference](./README.md#Inference)<br>
 [Mobile Application](./README.md#Mobile-Application)
 
@@ -53,7 +53,24 @@
 ![](Training/tensor_board_1.png)  
   
 ![](Training/tensor_board_2.png)  
-  
+
+## Стилизация
+Получить стилизованное изображение оказалось просто ─ достаточно было выполнить в терминале эту команду:  
+logdir=/path/to/logdir  
+$ arbitrary_image_stylization_train \  
+      --batch_size=8 \  
+      --imagenet_data_dir=/path/to/imagenet-2012-tfrecord \  
+      --vgg_checkpoint=/path/to/vgg-checkpoint \  
+      --inception_v3_checkpoint=/path/to/inception-v3-checkpoint \  
+      --style_dataset_file=$RECORDIO_PATH \  
+      --train_dir="$logdir"/train_dir \  
+      --content_weights={\"vgg_16/conv3\":2.0} \  
+      --random_style_image_size=False \  
+      --augment_style_images=False \  
+      --center_crop=True \  
+      --logtostderr  
+
+
 
 
 
